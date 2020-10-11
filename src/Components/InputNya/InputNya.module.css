@@ -1,0 +1,12 @@
+.errorInp {
+    border: 5px solid red;
+
+}
+
+.errorInp_message {
+    color: red;
+}
+
+.inp_wrap {
+    display: flex;
+}

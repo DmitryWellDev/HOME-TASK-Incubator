@@ -1,0 +1,8 @@
+.RadioWrap {
+    width: 200px;
+    margin: 0;
+}
+
+.ItemsWrap {
+    display: flex;
+}

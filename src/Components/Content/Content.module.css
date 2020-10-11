@@ -1,0 +1,29 @@
+.content_wrap {
+    display: flex;
+    justify-content: space-between;
+}
+
+.content_text {
+    padding-left: 15px;
+    margin-top: 0;
+    width: 300px;
+    word-wrap: break-word;
+}
+
+.content_time {
+    padding-bottom: 10px;
+    padding-right: 14px;
+    color: darkgray;
+    font-size: 14px;
+    align-self: flex-end;
+}
+
+.contact_photo {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-image: url(../../img/contact.jpg);
+    left: -84px;
+    top: 50px;
+    border-radius: 50%;
+}

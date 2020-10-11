@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Incubator-HomeTask/static/css/main.2b6495c1.chunk.css",
+    "main.js": "/Incubator-HomeTask/static/js/main.44dc456b.chunk.js",
+    "main.js.map": "/Incubator-HomeTask/static/js/main.44dc456b.chunk.js.map",
+    "runtime-main.js": "/Incubator-HomeTask/static/js/runtime-main.8f414761.js",
+    "runtime-main.js.map": "/Incubator-HomeTask/static/js/runtime-main.8f414761.js.map",
+    "static/js/2.f4e3f690.chunk.js": "/Incubator-HomeTask/static/js/2.f4e3f690.chunk.js",
+    "static/js/2.f4e3f690.chunk.js.map": "/Incubator-HomeTask/static/js/2.f4e3f690.chunk.js.map",
+    "index.html": "/Incubator-HomeTask/index.html",
+    "precache-manifest.c73098ec3b6d7a6695184d9d9da89e7b.js": "/Incubator-HomeTask/precache-manifest.c73098ec3b6d7a6695184d9d9da89e7b.js",
+    "service-worker.js": "/Incubator-HomeTask/service-worker.js",
+    "static/css/main.2b6495c1.chunk.css.map": "/Incubator-HomeTask/static/css/main.2b6495c1.chunk.css.map",
+    "static/js/2.f4e3f690.chunk.js.LICENSE.txt": "/Incubator-HomeTask/static/js/2.f4e3f690.chunk.js.LICENSE.txt",
+    "static/media/Content.module.css": "/Incubator-HomeTask/static/media/contact.e8a2015d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f414761.js",
+    "static/js/2.f4e3f690.chunk.js",
+    "static/css/main.2b6495c1.chunk.css",
+    "static/js/main.44dc456b.chunk.js"
+  ]
+}
