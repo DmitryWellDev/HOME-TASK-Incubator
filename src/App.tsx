@@ -15,7 +15,7 @@ function App() {
         { name: "Ann", age: 19, surname: "Hathaway" }
     ];
 
-    let sorted = users.sort((a, b) => a.name > b.name ? 1 : -1);
+    let sorted = users.sort((a, b) => a.name > b.name ? 1 : -1).reverse()
 
     console.log(sorted);
 

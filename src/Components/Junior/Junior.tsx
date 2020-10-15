@@ -3,6 +3,7 @@ import styles from './Junior.module.css'
 import EditableSpan from "../Common/EditableSpan/EditableSpan";
 import Select from "../Common/Select/Select";
 import Radio from "../Common/Radio/Radio";
+import {UsersSort} from "../UsersSort/UsersSort";
 
 export type ItemType = {
     title: string
@@ -56,6 +57,7 @@ function Junior() {
         />
         <Select items={items} onChange={onChange} value={value}/>
         <Radio items={items} onChangeInp={onChangeInp} value={value}/>
+        <UsersSort/>
     </div>
 }
 
