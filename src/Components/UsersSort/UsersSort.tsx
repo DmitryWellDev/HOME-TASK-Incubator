@@ -20,6 +20,7 @@ export const UsersSort = (props: any) => {
                 <button onClick={sortUp}>Sort Up</button>
                 <button onClick={sortDown}>Sort Down</button>
                 <button onClick={filterAge}>Age filter</button>
+                <button>ddd</button>
             </div>
         </div>
     )
